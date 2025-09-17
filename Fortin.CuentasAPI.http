@@ -3,4 +3,9 @@
 GET {{Fortin.CuentasAPI_HostAddress}}/weatherforecast/
 Accept: application/json
 
+### API Cuentas
+GET {{Fortin.CuentasAPI_HostAddress}}/api/cuentas
+Authorization: Bearer nE59fN6sr0BdMOPUNSXiTHUPr2awrvzwSnAA4pTJk7V3XLR8MS17a46fDwc7IGxg
 ###
+
+
